@@ -7,21 +7,16 @@
     </food>
     <food>
         <name>Hotdog</name>
-        <price></price>
-        <calorie></calorie>
-    </food>
-    <food>
-        <name>Hamburger</name>
-        <price></price>
+        <price>$12</price>
         <calorie></calorie>
     </food>
     <food>
         <name>Hamburger</name>
         <price>25</price>
-        <calorie>490</calorie>
+        <calorie></calorie>
     </food>
     <food>
-        <name>Timsumr</name>
+        <name>Timsum</name>
         <price>12</price>
         <calorie>260</calorie>
     </food>
